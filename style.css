@@ -57,7 +57,6 @@ h3 {
 }
 
 canvas {
-    width: 500px;
     border: 2px solid rgb(51, 98, 226);
     border-radius: 12px;
 }
